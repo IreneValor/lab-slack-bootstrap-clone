@@ -1,37 +1,33 @@
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+CSS | Clon de Slack con Flexbox
 
-# CSS | Slack clone with Flexbox
+## Introducción
 
-## Introduction
+En este momento deberías estar familiarizado con [Slack] (https://www.slack.com/), pero para que quede más claro, ***Slack** es un conjunto de herramientas y servicios de colaboración en equipo basados en la nube o, en términos más simples, es un programa de chat.
 
-You should be reaaaaally familiar with [Slack](https://www.slack.com/) at this point, but just to make it more clear, **Slack** is a cloud-based set of team collaboration tools and services or in simpler terms, it is a chatting program.
+Utilizamos la aplicación casi todos los días para mantener nuestras comunicaciones con nuestros compañeros de clase y el equipo ***Ironhack**, por lo que conocemos perfectamente la interfaz de chat, pero hoy vamos a clonar su landing page. [Aquí] (https://www.slack.com/) puede visitar el sitio web y comprobar lo que vamos a hacer. : stuck_out_tongue_winking_eye:
 
-We use the app almost every day to keep our communications with our classmates and the **Ironhack** team, so we know perfectly the chat interface but today we are going to clone their landing page. [Here](https://www.slack.com/) you can visit the website and check what are we going to do. :stuck_out_tongue_winking_eye:
-
-We want to practice our new **Flexbox** skills, so we are going to implement the *"responsiveness"* of the landing page. No worries, we will show you what we need!
+Queremos practicar nuestras nuevas habilidades **Flexbox***, así que vamos a implementar la *"capacidad de respuesta"* de la landing page. ¡No te preocupes, te mostraremos lo que necesitamos!
 
 
-## Requirements
+## Requisitos
 
-- Fork this repo
-- Clone this repo
+- Bifurcar este repo
+- Clonar este repositorio
 
-## Submission
+## Sumisión
 
-Upon completion, run the following commands:
+Al finalizar, ejecute los siguientes comandos:
 ```
 $ git add .
-$ git commit -m "done"
-$ git push origin master
+$ git commit -m "hecho"
+$ git push origin máster
 ```
-Create Pull Request so your TAs can check up your work.
+Crea Pull Request para que tus TAs puedan revisar tu trabajo.
 
-## Exercise
+## Ejercicio
 
-You are provided with the basic files: HTML, CSS and required images.
+Se le proporcionan los archivos básicos: HTML, CSS e imágenes requeridas.
 
-Also you will find  the `reference.jpg` file, where you can see in detail the expected composition for every size, matching `sm`, `md` and `lg` Bootstrap's breakpoints.
+También encontrará el archivo `reference.jpg` , donde puede ver en detalle la composición esperada para cada tamaño, coincidiendo con los puntos de interrupción de `sm`, `md` y `lg` Bootstrap.
 
-Reminder: **Mobile first!**
-
-Happy coding! ❤️
+Recordatorio: **Móvil primero! **

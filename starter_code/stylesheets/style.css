@@ -5,3 +5,97 @@ main-titles dark-grey: #2C303F;
 paragraph grey: #5b5e6d;
 nav grey: #5b5e6d;
 */
+img{
+    width: 100%;
+}
+
+.nav-header {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.nav-header{
+    padding: 15px 40px;
+    align-items: center;
+}
+
+hr {
+    height: 3px;
+    background-color: black;
+}
+
+.logo-slack{
+    width: 80px;
+    height: 70px;
+    padding-top: 15px;
+}
+.img-navicon{
+    width: 50px;
+    height: 50px;
+    padding-top: 15px ;
+    
+}
+header .nav-header li{
+    font-size: 16px;
+    
+}
+.list{
+    list-style: none;
+    display: flex;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.header-button {
+    display: none;
+    
+}
+
+.buttomEmail{
+    border: 1px solid black;
+    border-radius: 4px;
+    justify-content: center;
+    width: 100%;
+    padding: 10px 50px;
+    margin-right: 20px;
+}
+
+.button-info{
+    width: 100%;
+    height: 50px;
+    margin-top: 10px;
+    background-color: #4c2882;
+}
+
+.button-nav{
+    display: none;
+}
+
+.img-main{
+   align-items: center;
+   justify-content: center
+}
+
+.row{
+    justify-content: center;
+    align-items: center;
+}
+
+.discover {
+    text-transform: uppercase;
+    align-items: center;
+    justify-content: center;
+}
+
+.img.one img{
+    width: 50%;
+    height: 50%;
+}
+
+.list li{
+    margin-right: 20px;
+    
+}
+
+
